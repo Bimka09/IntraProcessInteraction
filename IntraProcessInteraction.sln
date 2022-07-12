@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntraProcessInteraction", "IntraProcessInteraction.csproj", "{F93A9C79-BEC6-4716-939B-4461009194FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F93A9C79-BEC6-4716-939B-4461009194FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F93A9C79-BEC6-4716-939B-4461009194FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F93A9C79-BEC6-4716-939B-4461009194FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F93A9C79-BEC6-4716-939B-4461009194FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFE4B63F-A555-45A6-B991-CC48C1A64F28}
+	EndGlobalSection
+EndGlobal
